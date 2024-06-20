@@ -34,7 +34,7 @@ We experimented with all the mentioned models and the best model which was able 
 
 - Clone this repo:
 ```bash
-git clone https://github.com/rohithreddy0087/Instance_Eraser
+git clone [https://github.com/rkg266/instance-eraser-Pix2Pix](https://github.com/rkg266/instance-eraser-Pix2Pix)
 cd Instance_Eraser
 python3 -m venv myenv
 source myenv/bin/activate
